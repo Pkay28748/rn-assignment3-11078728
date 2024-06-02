@@ -66,8 +66,7 @@ The `TaskList` component renders a vertical list of tasks. Each task is displaye
 - Water Plants
 - Practice Piano
 
-## Screenshots
-
+![Screenshot](../rn-assignment3-11078728/myWork/zzz.png)
 
 
 ## Setup
